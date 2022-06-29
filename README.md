@@ -1,3 +1,11 @@
+## Primary project objective
+
+- Create a tool that ingests tabular data files of various formats and conducts unsupervised clustering using the k-means algorithm. Two or three variable datasets are currently supported. The stand-alone tool outputs the coordinate values for the calculated centroids, a membership list for each, and a visual representation of the resulting clusters for two-variable datasets.
+
+## Primary language
+
+- Python
+
 ## Highlighted visualizations
 
 ### Dataset 1: K = 5, 7, and 9
